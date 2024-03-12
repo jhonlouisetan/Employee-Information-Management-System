@@ -1,3 +1,5 @@
+# Employee Information Management System
+
 ## About
 A simple employee information management system programmed using Java.
 
